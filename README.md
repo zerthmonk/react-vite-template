@@ -1,9 +1,7 @@
 ### React + Vite
 
-- React
-- Vite
-- Typescript
-- ESlint
-- Docker
+React + Vite template inside docker container for rapid development\
+Shortcuts to operations provided via Makefile to simplify workflow\
+Additional json mock server support
 
-separated node_modules dir, Makefile for easy managing, mock db server
+Template is intentionally minimalistic
